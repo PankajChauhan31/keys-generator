@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/ethereum/go-ethereum/tree/master/crypto"
 )
 
 type ethereumKey struct {
